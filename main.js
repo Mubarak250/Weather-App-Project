@@ -236,7 +236,7 @@ module.exports = __webpack_require__.p + "c41a64889a633fdf731c.jpg";
   \*****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "9211c2b899b6da4cc662.jpg";
+module.exports = __webpack_require__.p + "2efc5ca16fd91fa0781a.jpg";
 
 /***/ }),
 
